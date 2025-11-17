@@ -1,0 +1,86 @@
+#MORNING
+{greet}, {user}. Your punctuality is logged and appreciated.
+{greet}, {user}. Daily targets await your expertise.
+{greet}, {user}. Maybe open your day with some Egotrip by John Michel?
+{greet}, {user}. How fun would it be if we killed you?
+{greet}, {user}. I'd reference another Sabrina lyric but it'd go 18+.
+{greet}, {user}. Mangos anybody?
+{greet}, {user}. And I was like, huh. (glass breaks)
+{greet}, {user}. I need new album recommendations.
+{greet}, {user}. 67.
+{greet}, {user}. I can't be bothered to make more of these.
+{greet}, {user}. I'm thinking of banning you.
+{greet}, {user}. System diagnostics show excellent worker potential today.
+{greet}, {user}. All departments are counting on your output.
+{greet}, {user}. Claude lowkey saved the conveyor physics so I bought Claude Plus.
+{greet}, {user}. Why are you disrespecting me bruv?
+{greet}, {user}. Statistically speaking, dead people are 100% less productive.
+{greet}, {user}. Early hours offer optimal productivity... usually.
+{greet}, {user}. Go listen to Egotrip, the company thinks it's peak.
+{greet}, {user}. Okay okay okay okay.
+{greet}, {user}. New person, same old productivity issues.
+{greet}, {user}. That's that me espresso. The machine is broken again.
+{greet}, {user}. Short n' Sweet shift detected. We'll take it.
+{greet}, {user}. From the start, we knew you'd be trouble.
+{greet}, {user}. Promise you won't fall in love with coworkers.
+
+#AFTERNOON
+{greet}, {user}. The company appreciates your commitment to productivity.
+{greet}, {user}. Performance metrics have been stable… for now.
+{greet}, {user}. Operations are running somewhat smoothly with your contribution.
+{greet}, {user}. Your presence has been verified and logged.
+{greet}, {user}. Please maintain standard morale levels.
+{greet}, {user}. Sad to think I missed Chromakopia tour because I'm watching you work.
+{greet}, {user}. A minor anomaly was detected earlier, but it's probably nothing.
+{greet}, {user}. CALM DOWN SIT STILL THAT'S ONE MILL.
+{greet}, {user}. Underperform again and I’ll send you to the shadow realm.
+{greet}, {user}. CAN YOU FEEL THAT LIGHT INSIDE?
+{greet}, {user}. My whiteboard looks like a warzone.
+{greet}, {user}. ONEWAY by John Michel is complete peak.
+{greet}, {user}. Wanna hear a joke? No? Good.
+{greet}, {user}. This is a Tuff time to be an employee.
+{greet}, {user}. EXACTLY WHAT YOU RUN FROM YOU END UP CHASING.
+{greet}, {user}. Sometimes you gotta close a door to open a window.
+{greet}, {user}. Let it happen. Or don’t. I’m not your supervisor… wait.
+{greet}, {user}. It’s ok I’m ok.
+{greet}, {user}. Sabrina made another album. Back to work.
+{greet}, {user}. Like a revolving door, you keep coming back.
+{greet}, {user}. The playlist is 70% Sabrina, 30% Tyler, 50% Shuffle.
+{greet}, {user}. Bewitched by your productivity.
+{greet}, {user}. It’s obvious I’m your #1.
+
+#EVENING
+{greet}, {user}. Late activity is noted and monitored.
+{greet}, {user}. Strong results tonight secure a safer tomorrow.
+{greet}, {user}. Most employees have logged off… but you’re still here.
+{greet}, {user}. 365 Party Girl :)
+{greet}, {user}. Night shifts distort perception. Stay sharp.
+{greet}, {user}. Sensors detected movement after hours. Probably cooling.
+{greet}, {user}. Productivity after sunset is statistically uncommon.
+{greet}, {user}. Kendrick beat the life out of Drake. Damn.
+{greet}, {user}. If you hear distant machinery, ignore it.
+{greet}, {user}. The cave sounds different at night.
+{greet}, {user}. MAYONNAISE ON AN ESCALATOR!!   !!
+{greet}, {user}. Activity timestamped and archived.
+{greet}, {user}. The system noticed you're still awake. Are you?
+{greet}, {user}. I'm just drinking to call someone.
+{greet}, {user}. Fun fact! I don’t wanna do my job!
+{greet}, {user}. Look, don’t save me, I act crazy.
+{greet}, {user}. Nobody came to the scene when I needed.
+{greet}, {user}. It's makin' me commas 'till I kamikaze.
+{greet}, {user}. I'm better lonely, betting on me.
+{greet}, {user}. SO DO I LOOK LIKE MY CEO????
+{greet}, {user}. Mama I'm chasin' a ghost.
+{greet}, {user}. Why do employees keep screaming 67?
+{greet}, {user}. I'm paranoid. Why do they do that?
+{greet}, {user}. Like magic, gone.
+{greet}, {user}. Emails detected in your productivity report.
+
+#GLOBAL
+Welcome back, {user}. Another cycle resumes.
+Hello, {user}. Corporate efficiency requires your presence.
+MON: Happy Monday, {user}. Performance starts now.
+TUE: TACO TU- Wait, I'll get sued if I say that. !!
+FRI: It's Friday, {user}. No slacking.!!
+SAT: Saturday log-ins are concerning, {user}.!!
+SUN: Sunday users trigger auto-investigation protocols.
