@@ -74,13 +74,15 @@
 {greet}, {user}. Why do employees keep screaming 67?
 {greet}, {user}. I'm paranoid. Why do they do that?
 {greet}, {user}. Like magic, gone.
+{greet}, {user}. I THINK YOU KNOW WHAT THIS IS.
+{greet}, {user}. Rah Tah Tah.
 {greet}, {user}. Emails detected in your productivity report.
 
 #GLOBAL
 Welcome back, {user}. Another cycle resumes.
 Hello, {user}. Corporate efficiency requires your presence.
 MON: Happy Monday, {user}. Performance starts now.
-TUE: TACO TU- Wait, I'll get sued if I say that. !!
+TUE: {user}, You know what this is? IT'S TACO TU- Wait, I'll get sued if I say that. !!
 FRI: It's Friday, {user}. No slacking.!!
 SAT: Saturday log-ins are concerning, {user}.!!
 SUN: Sunday users trigger auto-investigation protocols.
