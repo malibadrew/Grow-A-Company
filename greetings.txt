@@ -37,6 +37,7 @@
 {greet}, {user}. CAN YOU FEEL THAT LIGHT INSIDE?
 {greet}, {user}. My whiteboard looks like a warzone.
 {greet}, {user}. ONEWAY by John Michel is complete peak.
+{greet}, {user}. Quad did.
 {greet}, {user}. Wanna hear a joke? No? Good.
 {greet}, {user}. This is a Tuff time to be an employee.
 {greet}, {user}. EXACTLY WHAT YOU RUN FROM YOU END UP CHASING.
