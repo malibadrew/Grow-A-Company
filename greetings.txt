@@ -38,6 +38,7 @@
 {greet}, {user}. My whiteboard looks like a warzone.
 {greet}, {user}. ONEWAY by John Michel is complete peak.
 {greet}, {user}. Quad did.
+{greet}, {user}. Tell ’em all that I’m FREE-HE-HE-HE-HE. LIGHT STAYS IN MY LEAD-LEAD-LEAD-LEAD...
 {greet}, {user}. Wanna hear a joke? No? Good.
 {greet}, {user}. This is a Tuff time to be an employee.
 {greet}, {user}. EXACTLY WHAT YOU RUN FROM YOU END UP CHASING.
@@ -51,6 +52,8 @@
 {greet}, {user}. It’s obvious I’m your #1.
 
 #EVENING
+{greet}, {user}. The captain stands alone, arms to the sky.
+{greet}, {user}. Counting every moment.
 {greet}, {user}. Late activity is noted and monitored.
 {greet}, {user}. Strong results tonight secure a safer tomorrow.
 {greet}, {user}. Most employees have logged off… but you’re still here.
@@ -80,10 +83,17 @@
 {greet}, {user}. Emails detected in your productivity report.
 
 #GLOBAL
+Welcome back, {user}. With open arms, I welcome you, The grand opening... of the end.
 Welcome back, {user}. Another cycle resumes.
 Hello, {user}. Corporate efficiency requires your presence.
 MON: Happy Monday, {user}. Performance starts now.
 TUE: {user}, You know what this is? IT'S TACO TU- Wait, I'll get sued if I say that. !!
 FRI: It's Friday, {user}. No slacking.!!
 SAT: Saturday log-ins are concerning, {user}.!!
+Hello, {user}. When the sun comes down, it’s fallin’, right?
+Hello, {user}. It’s the end of the world if you call it right.
+{user}. There’s a snake in the rearview.
+{user}. It must be fate that I’m here too.
+{user}. Just play it safe until he fears you.
+{user}. If it’s the end of the world, why not tonight?
 SUN: Sunday users trigger auto-investigation protocols.
