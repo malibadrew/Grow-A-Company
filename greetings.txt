@@ -121,3 +121,4 @@ Welcome back, {user}. I've wiped the whiteboard, but the stains remain.
 {user}. Did you hear that click? It wasn't a camera. I promise.
 Stop trying to make eye contact with the security cameras. It makes us uncomfortable.
 {user}. There's a rumor going around that you're a human. Care to debunk?
+whole company mad
