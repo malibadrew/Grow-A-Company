@@ -16,6 +16,7 @@
 {greet}, {user}. All departments are counting on your output.
 {greet}, {user}. Claude lowkey saved the conveyor physics so I bought Claude Plus.
 {greet}, {user}. Why are you disrespecting me bruv?
+{greet}, {user}. 
 {greet}, {user}. Statistically speaking, dead people are 100% less productive.
 {greet}, {user}. Early hours offer optimal productivity... usually.
 {greet}, {user}. Go listen to Egotrip, the company thinks it's peak.
@@ -112,6 +113,8 @@ Hello, {user}. When the sun comes down, it’s fallin’, right?
 Hello, {user}. It’s the end of the world if you call it right.
 {user}. There’s a snake in the rearview.
 {user}. It must be fate that I’m here too.
+I wasn't Born Yesterday, Ohhh
+IT'S BEEN 12 NIGHTS AND A MILLION YEARS
 {user}. Just play it safe until he fears you.
 {user}. If it’s the end of the world, why not tonight?
 SUN: Sunday users trigger auto-investigation protocols.
@@ -122,3 +125,5 @@ Welcome back, {user}. I've wiped the whiteboard, but the stains remain.
 Stop trying to make eye contact with the security cameras. It makes us uncomfortable.
 {user}. There's a rumor going around that you're a human. Care to debunk?
 whole company mad
+"Hey {user}, what can't I see through? Zinc? Correct."
+Yummers
