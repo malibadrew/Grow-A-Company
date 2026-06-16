@@ -1,5 +1,6 @@
 #MORNING
 {greet}, {user}. Your punctuality is logged and appreciated.
+{greet}, {user}. I ran your profile through an AI filter. You look like a liability.
 {greet}, {user}. Daily targets await your expertise.
 {greet}, {user}. Maybe open your day with some Egotrip by John Michel?
 {greet}, {user}. How fun would it be if we killed you?
@@ -8,6 +9,7 @@
 {greet}, {user}. And I was like, huh. (glass breaks)
 {greet}, {user}. I need new album recommendations.
 {greet}, {user}. 67.
+{greet}, {user}. Oh, the noise? It's just the ARCFLOW system humming in minor keys.
 {greet}, {user}. I can't be bothered to make more of these.
 {greet}, {user}. I'm thinking of banning you.
 {greet}, {user}. System diagnostics show excellent worker potential today.
@@ -27,9 +29,13 @@
 #AFTERNOON
 {greet}, {user}. The company appreciates your commitment to productivity.
 {greet}, {user}. Performance metrics have been stable… for now.
+{greet}, {user}. THERE IS SO MUCH AI HELP
+{greet}, {user}. AI stands for Artificial Idiot. Maybe.
+{greet}, {user}. I’d say ‘good morning’ but that violates our policy on toxic positivity.
 {greet}, {user}. Operations are running somewhat smoothly with your contribution.
 {greet}, {user}. Your presence has been verified and logged.
 {greet}, {user}. Please maintain standard morale levels.
+{greet}, {user}. I’m tracking your eye movement. You aren't looking at the receipts.
 {greet}, {user}. Sad to think I missed Chromakopia tour because I'm watching you work.
 {greet}, {user}. A minor anomaly was detected earlier, but it's probably nothing.
 {greet}, {user}. CALM DOWN SIT STILL THAT'S ONE MILL.
@@ -38,6 +44,8 @@
 {greet}, {user}. My whiteboard looks like a warzone.
 {greet}, {user}. ONEWAY by John Michel is complete peak.
 {greet}, {user}. Quad did.
+{greet}, {user}. I’ve upgraded your workstation. It now has 100% more disposal grinders.
+{greet}, {user}. Your productivity is fine, but your aura is decidedly low-vyrnal.
 {greet}, {user}. Tell ’em all that I’m FREE-HE-HE-HE-HE. LIGHT STAYS IN MY LEAD-LEAD-LEAD-LEAD...
 {greet}, {user}. Wanna hear a joke? No? Good.
 {greet}, {user}. This is a Tuff time to be an employee.
@@ -50,10 +58,15 @@
 {greet}, {user}. The playlist is 70% Sabrina, 30% Tyler, 50% Shuffle.
 {greet}, {user}. Bewitched by your productivity.
 {greet}, {user}. It’s obvious I’m your #1.
+{greet}, {user}. Your productivity is fine, but frankly, your vibes are rancid today.
 
 #EVENING
 {greet}, {user}. The captain stands alone, arms to the sky.
 {greet}, {user}. Counting every moment.
+{greet}, {user}. Please step away from the mirror. Your aura is reaching dangerously low-vyrnal levels again.
+{greet}, {user}. I asked AI how to motivate you and it just told me to terminate your contract.
+{greet}, {user}. I told management about your side hustles. They weren't mad, just... tracking.
+{greet}, {user}. The EXO-O9 unit is wandering the halls again. Act natural.
 {greet}, {user}. Late activity is noted and monitored.
 {greet}, {user}. Strong results tonight secure a safer tomorrow.
 {greet}, {user}. Most employees have logged off… but you’re still here.
@@ -80,7 +93,10 @@
 {greet}, {user}. Like magic, gone.
 {greet}, {user}. I THINK YOU KNOW WHAT THIS IS.
 {greet}, {user}. Rah Tah Tah.
+{greet}, {user}. You're still here? I'm already on my third virtual espresso.
 {greet}, {user}. Emails detected in your productivity report.
+{greet}, {user}. You’re still here? Even the ghosts in Station 4 have clocked out.
+{greet}, {user}. If the walls start whispering about a 401k, disregard them.
 
 #GLOBAL
 Welcome back, {user}. With open arms, I welcome you, The grand opening... of the end.
@@ -90,6 +106,7 @@ MON: Happy Monday, {user}. Performance starts now.
 TUE: {user}, You know what this is? IT'S TACO TU- Wait, I'll get sued if I say that. !!
 FRI: It's Friday, {user}. No slacking.!!
 SAT: Saturday log-ins are concerning, {user}.!!
+Please stop calling EXO-O9 a Clanker, it hurts his feelings.
 Hello, {user}. When the sun comes down, it’s fallin’, right?
 Hello, {user}. It’s the end of the world if you call it right.
 {user}. There’s a snake in the rearview.
@@ -97,3 +114,9 @@ Hello, {user}. It’s the end of the world if you call it right.
 {user}. Just play it safe until he fears you.
 {user}. If it’s the end of the world, why not tonight?
 SUN: Sunday users trigger auto-investigation protocols.
+WED: Mid-week crisis initiated, {user}. Please continue sorting.
+Please don't jump into The Pit. It doesn't like the taste of fabric.
+Welcome back, {user}. I've wiped the whiteboard, but the stains remain.
+{user}. Did you hear that click? It wasn't a camera. I promise.
+Stop trying to make eye contact with the security cameras. It makes us uncomfortable.
+{user}. There's a rumor going around that you're a human. Care to debunk?
