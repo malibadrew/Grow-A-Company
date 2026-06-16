@@ -59,6 +59,7 @@
 {greet}, {user}. Bewitched by your productivity.
 {greet}, {user}. It’s obvious I’m your #1.
 {greet}, {user}. Your productivity is fine, but frankly, your vibes are rancid today.
+{greet}, {user}. Please stop calling other workers Yarners. That's a slur.
 
 #EVENING
 {greet}, {user}. The captain stands alone, arms to the sky.
