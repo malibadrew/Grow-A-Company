@@ -6,6 +6,7 @@
 {greet}, {user}. How fun would it be if we killed you?
 {greet}, {user}. I'd reference another Sabrina lyric but it'd go 18+.
 {greet}, {user}. Mangos anybody?
+{greet}, {user}. [MESSAGE REMOVED BY LEGAL]
 {greet}, {user}. And I was like, huh. (glass breaks)
 {greet}, {user}. I need new album recommendations.
 {greet}, {user}. 67.
@@ -35,6 +36,8 @@
 {greet}, {user}. I’d say ‘good morning’ but that violates our policy on toxic positivity.
 {greet}, {user}. Operations are running somewhat smoothly with your contribution.
 {greet}, {user}. Your presence has been verified and logged.
+{greet}, {user}. If the lights flicker three times, do not acknowledge it.
+{greet}, {user}. Your happiness is important to us. Productivity is more important.
 {greet}, {user}. Please maintain standard morale levels.
 {greet}, {user}. I’m tracking your eye movement. You aren't looking at the receipts.
 {greet}, {user}. Sad to think I missed Chromakopia tour because I'm watching you work.
@@ -42,6 +45,7 @@
 {greet}, {user}. CALM DOWN SIT STILL THAT'S ONE MILL.
 {greet}, {user}. Underperform again and I’ll send you to the shadow realm.
 {greet}, {user}. CAN YOU FEEL THAT LIGHT INSIDE?
+{greet}, {user}. EXO-O9 asked about you today.
 {greet}, {user}. My whiteboard looks like a warzone.
 {greet}, {user}. ONEWAY by John Michel is complete peak.
 {greet}, {user}. Quad did.
@@ -54,6 +58,8 @@
 {greet}, {user}. Sometimes you gotta close a door to open a window.
 {greet}, {user}. Let it happen. Or don’t. I’m not your supervisor… wait.
 {greet}, {user}. It’s ok I’m ok.
+{greet}, {user}. You weren't supposed to see this one.
+{greet}, {user}. Wait, who approved this greeting?
 {greet}, {user}. Sabrina made another album. Back to work.
 {greet}, {user}. Like a revolving door, you keep coming back.
 {greet}, {user}. The playlist is 70% Sabrina, 30% Tyler, 50% Shuffle.
@@ -61,6 +67,7 @@
 {greet}, {user}. It’s obvious I’m your #1.
 {greet}, {user}. Your productivity is fine, but frankly, your vibes are rancid today.
 {greet}, {user}. Please stop calling other workers Yarners. That's a slur.
+{greet}, {user}. The Pit would like to know your location.
 
 #EVENING
 {greet}, {user}. The captain stands alone, arms to the sky.
