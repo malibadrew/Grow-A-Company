@@ -46,6 +46,7 @@
 {greet}, {user}. Underperform again and I’ll send you to the shadow realm.
 {greet}, {user}. CAN YOU FEEL THAT LIGHT INSIDE?
 {greet}, {user}. EXO-O9 asked about you today.
+{greet}, {user}. SO DO I LOOK LIKE MY CEO????
 {greet}, {user}. My whiteboard looks like a warzone.
 {greet}, {user}. ONEWAY by John Michel is complete peak.
 {greet}, {user}. Quad did.
@@ -95,7 +96,6 @@
 {greet}, {user}. Nobody came to the scene when I needed.
 {greet}, {user}. It's makin' me commas 'till I kamikaze.
 {greet}, {user}. I'm better lonely, betting on me.
-{greet}, {user}. SO DO I LOOK LIKE MY CEO????
 {greet}, {user}. Mama I'm chasin' a ghost.
 {greet}, {user}. Why do employees keep screaming 67?
 {greet}, {user}. I'm paranoid. Why do they do that?
@@ -108,9 +108,10 @@
 {greet}, {user}. If the walls start whispering about a 401k, disregard them.
 
 #GLOBAL
-Welcome back, {user}. With open arms, I welcome you, The grand opening... of the end.
+With open arms, I welcome you, {user}. The grand opening... of the end.
 Welcome back, {user}. Another cycle resumes.
 Hello, {user}. Corporate efficiency requires your presence.
+It's your mom's bakery in Maine, it's that cabin in Sweden.
 MON: Happy Monday, {user}. Performance starts now.
 TUE: {user}, You know what this is? IT'S TACO TU- Wait, I'll get sued if I say that. !!
 FRI: It's Friday, {user}. No slacking.!!
@@ -125,6 +126,7 @@ IT'S BEEN 12 NIGHTS AND A MILLION YEARS
 {user}. Just play it safe until he fears you.
 {user}. If it’s the end of the world, why not tonight?
 SUN: Sunday users trigger auto-investigation protocols.
+Fiber glass affliction, can I pencil in a date?
 WED: Mid-week crisis initiated, {user}. Please continue sorting.
 Please don't jump into The Pit. It doesn't like the taste of fabric.
 Welcome back, {user}. I've wiped the whiteboard, but the stains remain.
@@ -132,5 +134,6 @@ Welcome back, {user}. I've wiped the whiteboard, but the stains remain.
 Stop trying to make eye contact with the security cameras. It makes us uncomfortable.
 {user}. There's a rumor going around that you're a human. Care to debunk?
 whole company mad
+White flag under the fire from above! (the fulfilment of the deal)
 "Hey {user}, what can't I see through? Zinc? Correct."
 Yummers
