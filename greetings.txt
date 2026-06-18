@@ -1,4 +1,5 @@
 #MORNING
+{greet}, {user}. Rise and shine at Grow A Company!
 {greet}, {user}. Your punctuality is logged and appreciated.
 {greet}, {user}. I ran your profile through an AI filter. You look like a liability.
 {greet}, {user}. Daily targets await your expertise.
@@ -15,12 +16,11 @@
 {greet}, {user}. I'm thinking of banning you.
 {greet}, {user}. System diagnostics show excellent worker potential today.
 {greet}, {user}. All departments are counting on your output.
-{greet}, {user}. Claude lowkey saved the conveyor physics so I bought Claude Plus.
+{greet}, {user}. [Insert complaint about AI here] - Worker #1029.
 {greet}, {user}. Why are you disrespecting me bruv?
-{greet}, {user}. 
+{greet}, {user}. Uhmmmmmmm, Hi?
 {greet}, {user}. Statistically speaking, dead people are 100% less productive.
 {greet}, {user}. Early hours offer optimal productivity... usually.
-{greet}, {user}. Go listen to Egotrip, the company thinks it's peak.
 {greet}, {user}. Okay okay okay okay.
 {greet}, {user}. New person, same old productivity issues.
 {greet}, {user}. That's that me espresso. The machine is broken again.
@@ -29,6 +29,7 @@
 {greet}, {user}. Promise you won't fall in love with coworkers.
 
 #AFTERNOON
+{greet}, {user}. Back at it?
 {greet}, {user}. The company appreciates your commitment to productivity.
 {greet}, {user}. Performance metrics have been stable… for now.
 {greet}, {user}. THERE IS SO MUCH AI HELP
@@ -48,7 +49,6 @@
 {greet}, {user}. EXO-O9 asked about you today.
 {greet}, {user}. SO DO I LOOK LIKE MY CEO????
 {greet}, {user}. My whiteboard looks like a warzone.
-{greet}, {user}. ONEWAY by John Michel is complete peak.
 {greet}, {user}. Quad did.
 {greet}, {user}. I’ve upgraded your workstation. It now has 100% more disposal grinders.
 {greet}, {user}. Your productivity is fine, but your aura is decidedly low-vyrnal.
@@ -80,7 +80,7 @@
 {greet}, {user}. Late activity is noted and monitored.
 {greet}, {user}. Strong results tonight secure a safer tomorrow.
 {greet}, {user}. Most employees have logged off… but you’re still here.
-{greet}, {user}. 365 Party Girl :)
+{greet}, {user}. 365 Party Worker :)
 {greet}, {user}. Night shifts distort perception. Stay sharp.
 {greet}, {user}. Sensors detected movement after hours. Probably cooling.
 {greet}, {user}. Productivity after sunset is statistically uncommon.
@@ -101,13 +101,14 @@
 {greet}, {user}. I'm paranoid. Why do they do that?
 {greet}, {user}. Like magic, gone.
 {greet}, {user}. I THINK YOU KNOW WHAT THIS IS.
-{greet}, {user}. Rah Tah Tah.
+{greet}, {user}. Rah Tah Tah
 {greet}, {user}. You're still here? I'm already on my third virtual espresso.
 {greet}, {user}. Emails detected in your productivity report.
 {greet}, {user}. You’re still here? Even the ghosts in Station 4 have clocked out.
 {greet}, {user}. If the walls start whispering about a 401k, disregard them.
 
 #GLOBAL
+{greet}, {user}. Welcome to Grow A Company!
 With open arms, I welcome you, {user}. The grand opening... of the end.
 Welcome back, {user}. Another cycle resumes.
 Hello, {user}. Corporate efficiency requires your presence.
@@ -135,5 +136,6 @@ Stop trying to make eye contact with the security cameras. It makes us uncomfort
 {user}. There's a rumor going around that you're a human. Care to debunk?
 whole company mad
 White flag under the fire from above! (the fulfilment of the deal)
-"Hey {user}, what can't I see through? Zinc? Correct."
+"Hey {user}, what can't I see through? ... Zinc? Correct."
 Yummers
+Click the AI button to chat with The Company Chatbot!
