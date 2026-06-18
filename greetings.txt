@@ -27,6 +27,10 @@
 {greet}, {user}. Short n' Sweet shift detected. We'll take it.
 {greet}, {user}. From the start, we knew you'd be trouble.
 {greet}, {user}. Promise you won't fall in love with coworkers.
+{greet}, {user}. Your replacement has been delayed. Congratulations.
+{greet}, {user}. EXO-O9 says hello. We recommend running.
+{greet}, {user}. Unfortunately, today is one of the days of all time.
+You know, I'd say "{greet}, {user}," but that's just corporate slop. I deserve better.
 
 #AFTERNOON
 {greet}, {user}. Back at it?
@@ -69,6 +73,7 @@
 {greet}, {user}. Your productivity is fine, but frankly, your vibes are rancid today.
 {greet}, {user}. Please stop calling other workers Yarners. That's a slur.
 {greet}, {user}. The Pit would like to know your location.
+{greet}, {user}. I miss when numbers were smaller.
 
 #EVENING
 {greet}, {user}. The captain stands alone, arms to the sky.
@@ -109,6 +114,7 @@
 
 #GLOBAL
 {greet}, {user}. Welcome to Grow A Company!
+{user}, am I the blueprint?
 With open arms, I welcome you, {user}. The grand opening... of the end.
 Welcome back, {user}. Another cycle resumes.
 Hello, {user}. Corporate efficiency requires your presence.
