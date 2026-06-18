@@ -144,5 +144,6 @@ Stop trying to make eye contact with the security cameras. It makes us uncomfort
 whole company mad
 White flag under the fire from above! (the fulfilment of the deal)
 "Hey {user}, what can't I see through? ... Zinc? Correct."
+I am required to greet you, {user}. Consider yourself greeted.
 Yummers
 Click the AI button to chat with The Company Chatbot!
