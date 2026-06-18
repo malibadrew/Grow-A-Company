@@ -128,6 +128,7 @@ Hello, {user}. When the sun comes down, it’s fallin’, right?
 Hello, {user}. It’s the end of the world if you call it right.
 {user}. There’s a snake in the rearview.
 {user}. It must be fate that I’m here too.
+I don't get paid enough to greet you, {user}.
 I wasn't Born Yesterday, Ohhh
 IT'S BEEN 12 NIGHTS AND A MILLION YEARS
 {user}. Just play it safe until he fears you.
