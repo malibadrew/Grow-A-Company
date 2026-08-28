@@ -10,7 +10,7 @@
 {greet}, {user}. [MESSAGE REMOVED BY LEGAL]
 {greet}, {user}. And I was like, huh. (glass breaks)
 {greet}, {user}. I need new album recommendations.
-{greet}, {user}. 67.
+{greet}, {user}. 676767676767
 {greet}, {user}. Oh, the noise? It's just the ARCFLOW system humming in minor keys.
 {greet}, {user}. I can't be bothered to make more of these.
 {greet}, {user}. I'm thinking of banning you.
@@ -47,7 +47,7 @@ You know, I'd say "{greet}, {user}," but that's just corporate slop. I deserve b
 {greet}, {user}. I’m tracking your eye movement. You aren't looking at the receipts.
 {greet}, {user}. Sad to think I missed Chromakopia tour because I'm watching you work.
 {greet}, {user}. A minor anomaly was detected earlier, but it's probably nothing.
-{greet}, {user}. CALM DOWN SIT STILL THAT'S ONE MILL.
+{greet}, {user}. CALM DOWN SIT STILL THAT'S ONE MILL, FOR EACH WHEEL.
 {greet}, {user}. Underperform again and I’ll send you to the shadow realm.
 {greet}, {user}. CAN YOU FEEL THAT LIGHT INSIDE?
 {greet}, {user}. EXO-O9 asked about you today.
@@ -65,7 +65,6 @@ You know, I'd say "{greet}, {user}," but that's just corporate slop. I deserve b
 {greet}, {user}. It’s ok I’m ok.
 {greet}, {user}. You weren't supposed to see this one.
 {greet}, {user}. Wait, who approved this greeting?
-{greet}, {user}. Sabrina made another album. Back to work.
 {greet}, {user}. Like a revolving door, you keep coming back.
 {greet}, {user}. The playlist is 70% Sabrina, 30% Tyler, 50% Shuffle.
 {greet}, {user}. Bewitched by your productivity.
@@ -131,6 +130,10 @@ Hello, {user}. It’s the end of the world if you call it right.
 I don't get paid enough to greet you, {user}.
 I wasn't Born Yesterday, Ohhh
 IT'S BEEN 12 NIGHTS AND A MILLION YEARS
+That dayplan should've stayed delayed, cause' the only thing I want is outttt...
+The {user} don't like his shoeeeess... Or looking at me in the eye...
+YOUR LOOKING AT THE REST OF YOUR LIFE
+LET'S PULL UP TO THE THEATER WHEN THE CREDITS ARE ROLLING, OHHHH
 {user}. Just play it safe until he fears you.
 {user}. If it’s the end of the world, why not tonight?
 SUN: Sunday users trigger auto-investigation protocols.
@@ -149,3 +152,4 @@ Yummers
 Click the AI button to chat with The Company Chatbot!
 #Fairs
 EXO-O9 shot a laser at me, #Fairs.
+EXO-O9 Pathfinding is trained on your movements.
